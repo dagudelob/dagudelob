@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**dagudelob/dagudelob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently Working on Outlier.AI :computer: 
+- 🌱 I’m currently learning ML/AI :pencil: 
+- 👯 I’m looking to collaborate on AIGS.ca :eyeglasses:
+- 🤔 I’m looking for help with ML Automation (Make, N8N, No-Code)
+- 💬 Ask me about AI/ML
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I'm from Colombia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact 
+![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagudelodavid%2F)
+ 
+:phone: +1(647)510-9080
+📫 email: agudelo.david@hotmail.com
