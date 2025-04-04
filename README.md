@@ -15,6 +15,7 @@
 
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fagudelodavid%2F)
  
+<<<<<<< HEAD
 
 
 
@@ -44,3 +45,7 @@ life_balance = {
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=Linux&logoColor=black)
+=======
+:phone: +1(647)510-908
+📫 email: agudelo.david@hotmail.com
+>>>>>>> df34d4d51591ac4b81abe5d17fe436e1fda03860
