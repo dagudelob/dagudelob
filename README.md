@@ -24,14 +24,8 @@
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white)
 
 ### :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-<!--RECENT_ACTIVITY:Last_update--> 
-Last Updated: Thursday, Audust 29th, 2024, 1:03:03 PM 
+<!--RECENT_ACTIVITY:start--> 
 <!--RECENT_ACTIVITY:Last_update_end--> 
-
 
 ```python
 life_balance = {
