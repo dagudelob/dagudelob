@@ -17,8 +17,4 @@ jobs:
         uses: Readme-Workflows/recent-activity@v2.4.1
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          # Aquí puedes agregar más configuraciones según la documentación de la acción
-          # Por ejemplo:
-          # commit_message: "Actualizar actividad reciente en el README"
-          # max_lines: 10
-          # ... otros parámetros ...
+          
