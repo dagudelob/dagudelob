@@ -9,10 +9,16 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: Update Profile README
-
     steps:
-      - uses: actions/checkout@v4.2.2
-      
-      - uses: Readme-Workflows/recent-activity@v2.4.1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Checkout repository
+        uses: actions/checkout@v4.2.2
+
+      - name: Get recent activity and update README
+        uses: Readme-Workflows/recent-activity@v2.4.1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # Aquí puedes agregar más configuraciones según la documentación de la acción
+          # Por ejemplo:
+          # commit_message: "Actualizar actividad reciente en el README"
+          # max_lines: 10
+          # ... otros parámetros ...
