@@ -1,0 +1,6 @@
+recent_activity:
+  fetch: 20
+  include:
+    - issues
+    - pull_requests
+    - comments
