@@ -1,6 +1,11 @@
-recent_activity:
-  fetch: 20
+# .github/recent-activity.config.yml
+github:
+  token: ${{ secrets.GITHUB_TOKEN }}
+activity:
+  max-entries: 5 # Number of recent activities to display
   include:
     - issues
     - pull_requests
-    - comments
+    - stars
+  exclude:
+    - forks
