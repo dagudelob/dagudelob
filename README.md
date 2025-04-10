@@ -1,12 +1,12 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently Working on Outlier.AI :computer: 
+- 🔭 I’m currently working on Outlier.AI :computer: 
 - 👯 I’m looking to collaborate on AIGS.ca :eyeglasses:
 - 🤔 I’m looking for help with ML Automation (Make, N8N, No-Code)
 - 💬 Ask me about AI/ML
 - 😄 Pronouns: He/Himhttps://github.com/dagudelob/dagudelob/blob/main/README.md
-- ⚡ Fun fact: Love technologies with a passion for AI & Machine Learning. 
+- ⚡ Fun fact: I love technologies with a passion for AI & Machine Learning. 
 
 
 ### Contact 
@@ -25,9 +25,9 @@
 
 ### :zap: Recent Activity
 <!--RECENT_ACTIVITY:start--> 
-<!--RECENT_ACTIVITY:Last_update_end--> 
+<!--RECENT_ACTIVITY:Last_update--> 
 
-```python
+ 
 life_balance = {
    'RAN': '📡 Optimize until perfect',
    'code': '💻 Debug until it works',
